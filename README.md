@@ -22,3 +22,14 @@ graph TD
     style Judge fill:#fff9c4,stroke:#fbc02d,stroke-width:2px
     style Decision fill:#ffebee,stroke:#c62828,stroke-width:2px
 ```
+
+## 🚀 How to Run
+
+### 1. Prerequisites
+* Python 3.8 or higher
+* An OpenAI API Key
+
+### 2. Setup
+Clone the repo and install the required library:
+```bash
+pip install openai
